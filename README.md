@@ -1,2 +1,1 @@
-# Precourse-Carlos-Pulido
-Este es un repositorio de prueba del modulo 2 del Prepcourse de Carlos Pulido
+Este es proyecto es una prueba de como crear un repositorio y clonarlo desde el github a nuestra pc
